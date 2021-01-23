@@ -1,3 +1,3 @@
 # Northbridge
 
-Using this to test GitHub functionality without compromising my other repos.  
+Releases for a tool I use to link spreadsheets.  Combines a couple spreadsheets in my desktop folder into a format I find useful, sometimes.
