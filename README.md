@@ -1,3 +1,3 @@
 # Northbridge
 
-Test repo with a cool name.
+Using this to test GitHub functionality without compromising my other repos.  
